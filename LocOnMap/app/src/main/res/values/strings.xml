@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">LocOnMap</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="google_maps_key" templateMergeStratgy ="preserve" translatable="false">AIzaSyAyfYdzQvwPX-bR5J6j8LecE8a034seW2E</string>
+</resources>
